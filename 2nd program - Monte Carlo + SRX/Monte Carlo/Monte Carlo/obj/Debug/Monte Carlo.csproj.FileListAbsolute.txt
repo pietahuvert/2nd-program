@@ -1,0 +1,29 @@
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\program nr 2\Monte Carlo\Monte Carlo\bin\Debug\Monte Carlo.exe.config
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\program nr 2\Monte Carlo\Monte Carlo\bin\Debug\Monte Carlo.exe
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\program nr 2\Monte Carlo\Monte Carlo\bin\Debug\Monte Carlo.pdb
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.csprojResolveAssemblyReference.cache
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte_Carlo.Form1.resources
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte_Carlo.Properties.Resources.resources
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.csproj.GenerateResource.Cache
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.csproj.CoreCompileInputs.cache
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.exe
+C:\Users\Hubcio\Desktop\modelowanie wieloskalowe\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.pdb
+C:\Users\Hubert\Desktop\program nr 2\Monte Carlo\Monte Carlo\bin\Debug\Monte Carlo.exe.config
+C:\Users\Hubert\Desktop\program nr 2\Monte Carlo\Monte Carlo\bin\Debug\Monte Carlo.exe
+C:\Users\Hubert\Desktop\program nr 2\Monte Carlo\Monte Carlo\bin\Debug\Monte Carlo.pdb
+C:\Users\Hubert\Desktop\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\Desktop\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte_Carlo.Form1.resources
+C:\Users\Hubert\Desktop\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte_Carlo.Properties.Resources.resources
+C:\Users\Hubert\Desktop\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.csproj.GenerateResource.Cache
+C:\Users\Hubert\Desktop\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.exe
+C:\Users\Hubert\Desktop\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.pdb
+C:\Users\Hubcio\Desktop\program nr 2 FINAL V2\program nr 2\Monte Carlo\Monte Carlo\bin\Debug\Monte Carlo.exe.config
+C:\Users\Hubcio\Desktop\program nr 2 FINAL V2\program nr 2\Monte Carlo\Monte Carlo\bin\Debug\Monte Carlo.exe
+C:\Users\Hubcio\Desktop\program nr 2 FINAL V2\program nr 2\Monte Carlo\Monte Carlo\bin\Debug\Monte Carlo.pdb
+C:\Users\Hubcio\Desktop\program nr 2 FINAL V2\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.csprojResolveAssemblyReference.cache
+C:\Users\Hubcio\Desktop\program nr 2 FINAL V2\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte_Carlo.Form1.resources
+C:\Users\Hubcio\Desktop\program nr 2 FINAL V2\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte_Carlo.Properties.Resources.resources
+C:\Users\Hubcio\Desktop\program nr 2 FINAL V2\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.csproj.GenerateResource.Cache
+C:\Users\Hubcio\Desktop\program nr 2 FINAL V2\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.csproj.CoreCompileInputs.cache
+C:\Users\Hubcio\Desktop\program nr 2 FINAL V2\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.exe
+C:\Users\Hubcio\Desktop\program nr 2 FINAL V2\program nr 2\Monte Carlo\Monte Carlo\obj\Debug\Monte Carlo.pdb
